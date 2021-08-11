@@ -1,4 +1,6 @@
-# Geolocation
+# Geolocation 
+Geolocation takes the 'username' as input and sends it to the backend server along with the user's geo-location.
+
 
 ## Quickstart
 1. Clone the repository by the command git clone https://github.com/Deepakkumar15/Geolocation.git
